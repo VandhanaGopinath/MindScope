@@ -1,0 +1,25 @@
+E1	I am the life of the party.
+E2	I don't talk a lot.
+E3	I feel comfortable around people.
+E4	I keep in the background.
+E5	I start conversations.
+N1	I get stressed out easily.
+N2	I am relaxed most of the time.
+N3	I worry about things.
+N4	I seldom feel blue.
+N5	I am easily disturbed.
+A1	I feel little concern for others.
+A2	I am interested in people.
+A3	I insult people.
+A4	I sympathize with others' feelings.
+A5	I am not interested in other people's problems.
+C1	I am always prepared.
+C2	I leave my belongings around.
+C3	I pay attention to details.
+C4	I make a mess of things.
+C5	I get chores done right away.
+O1	I have a rich vocabulary.
+O2	I have difficulty understanding abstract ideas.
+O3	I have a vivid imagination.
+O4	I am not interested in abstract ideas.
+O5	I have excellent ideas.
